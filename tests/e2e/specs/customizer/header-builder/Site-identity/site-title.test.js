@@ -43,3 +43,4 @@ describe( 'Site Title Typography settings and color settings in the customizer',
 		);
 	} );
 } );
+	
