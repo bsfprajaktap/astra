@@ -2945,6 +2945,10 @@ body .entry-content .wp-block-latest-posts li {
   list-style-type: none;
 }
 
+.no-widget-text {
+  margin-bottom: 0;
+}
+
 .widget_nav_menu ul ul.sub-menu {
   margin-top: 0.25em;
 }
